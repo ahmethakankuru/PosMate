@@ -1,0 +1,28 @@
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\ref\PointOfSale.Model.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\ref\PointOfSale.Model.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.genruntimeconfig.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.csproj.AssemblyReference.cache
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.deps.json
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.runtimeconfig.json
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.dll
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\bin\Debug\net6.0\PointOfSale.Model.pdb
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.csproj.AssemblyReference.cache
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.AssemblyInfoInputs.cache
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.AssemblyInfo.cs
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.csproj.CoreCompileInputs.cache
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.dll
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\refint\PointOfSale.Model.dll
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.pdb
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\PointOfSale.Model.genruntimeconfig.cache
+C:\Users\AHK\Desktop\pointofsales\PointOfSale\PointOfSale.Model\obj\Debug\net6.0\ref\PointOfSale.Model.dll
